@@ -1,6 +1,6 @@
-This is a repository with code for a small research assignment.
+A small research assignment.
 
-RQ: How method name preiction accuracy depends on method length?
+RQ: How method name prediction quality depends on method length?
 
 [Research report](https://drive.google.com/file/d/1QVNPLTomrmBoubzxHUyaFMQlKQAdTIcQ/view?usp=sharing)
 
